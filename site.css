@@ -1,0 +1,44 @@
+   .sidebar {
+    padding: 20px;
+    min-height: 200px;
+    background-color: #2C2A2C;
+    color: #C7C7C7;
+    padding-left: 50px;
+}
+   
+   .profile-image {
+    text-align: center;
+}
+
+    .profile-picture {
+    border-radius: 3px;
+    height: 150px;
+    border-radius: 100px;
+}
+    
+    h4 {
+        text-align: left;
+        color: black;
+    }
+    p {
+        text-align: left;
+        color: blue;
+    }
+
+    #stuff{
+         text-align: left;
+        color: red;
+    }
+    .tals{
+        font-style: italic;
+    }
+    .col1{
+
+    }
+    .col2{
+
+    }
+    .col3{
+
+    }
+    
